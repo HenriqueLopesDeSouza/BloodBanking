@@ -1,7 +1,7 @@
 # BloodBanking
+
 ## Project: Blood Donation Database System to manage donor registrations, blood stock, and donation records
 
-### This technology stack and architecture provide a scalable, maintainable, and secure solution for the Blood Banking Management System, including 
 ### This project has been developed using the following technologies and design patterns:
 ### 1 - Technology Stack:
         Backend Framework: .NET 8
