@@ -20,3 +20,20 @@
         Women can donate every 90 days.
         Men can donate every 60 days.
         The amount of blood donated must be between 420ml and 470ml.
+
+### 3 - 
+
+### INSERT 
+![inserir](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/d72922fc-58bf-4ed1-8b7f-0013af02648a)
+
+### Donation 
+![donation1](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/ae04f2db-0e24-4b23-be55-3f96f466886f)
+
+### Email 
+![blookdown](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/3e84bcbe-4fd7-4602-a041-8d54bdeb6785)
+
+### Pdf 
+![pdf](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/4de28394-0b34-4440-b3fc-da7eb504993a)
+
+### 
+![image](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/d5a39075-0cd3-4217-8835-177b606a55c7)
