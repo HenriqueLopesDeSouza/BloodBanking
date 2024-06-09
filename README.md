@@ -23,10 +23,10 @@
 
 ### 3 - 
 
-### INSERT 
+### Insert User  
 ![inserir](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/d72922fc-58bf-4ed1-8b7f-0013af02648a)
 
-### Donation 
+### Registrar Donation 
 ![donation1](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/ae04f2db-0e24-4b23-be55-3f96f466886f)
 
 ### Email 
@@ -35,5 +35,9 @@
 ### Pdf 
 ![pdf](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/4de28394-0b34-4440-b3fc-da7eb504993a)
 
-### 
+### Swagger
+![image](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/467870ed-7fd3-4d37-800f-fe5bfefc1459)
+
+
+### Directory Structure
 ![image](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/d5a39075-0cd3-4217-8835-177b606a55c7)
