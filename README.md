@@ -21,8 +21,6 @@
         Men can donate every 60 days.
         The amount of blood donated must be between 420ml and 470ml.
 
-### 3 - 
-
 ### Insert User  
 ![inserir](https://github.com/HenriqueLopesDeSouza/BloodBanking/assets/43977679/d72922fc-58bf-4ed1-8b7f-0013af02648a)
 
